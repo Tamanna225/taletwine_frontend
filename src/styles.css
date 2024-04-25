@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-color: black;
+    color: azure;
+    background-image: url("https://img.freepik.com/free-photo/black-textured-background_24972-764.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'cursive', cursive;
+}

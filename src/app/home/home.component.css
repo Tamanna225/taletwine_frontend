@@ -1,0 +1,41 @@
+:host, .bigcontainer{
+    background-color: black;
+    color: rgb(250, 248, 248);
+    font-family: 'cursive', cursive;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRAVtHQeYjPOKC5k3R3unP6GNkzo3WuE1Nw&s");
+    height:100vh;
+  }
+  
+  a {
+    text-decoration: none;
+    
+  }
+  .boxy {
+    background-color: rgba(45, 45, 49, 0.442);
+    border: white 1px solid;
+    border-radius: 10px;
+    /*background-image: url("https://marketplace.canva.com/EAE6eTvKMGY/1/0/900w/canva-instagram-story-background-yrg7CjIFPkE.jpg");*/
+    
+  }
+  .boxy:hover{
+    transform: scale(1.01);
+  }
+  .heading{
+    margin-top: 0px;
+    padding-bottom: 40px;
+    font-size: 100px;
+    padding-top: 50px;
+    margin-bottom: 20px;
+  }
+  .texty{
+    color: white;
+    
+  }
+  .heady{
+    color: rgb(71, 165, 205);
+  }
+  .yours{
+    float: inline-end;
+  }

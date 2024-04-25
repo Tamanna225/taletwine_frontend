@@ -1,0 +1,37 @@
+:host{
+    background-color: black;
+    color: azure;
+    background-image: url("https://img.freepik.com/free-photo/black-textured-background_24972-764.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-family: 'cursive', cursive;
+    background-size: cover;
+  }
+  .heading{
+    font-size: 65px;
+    font-weight: bold;
+    margin-top: 30px;
+    color: white;
+  }
+  
+  #description,#title{
+    background-color: rgba(31, 33, 33, 0.319);
+    color: white;
+    margin-top: 5px;
+  }
+  #description{
+    height: 70px;
+  }
+  #content{
+    height: 300px;
+    background-color: rgba(31, 33, 33, 0.319);
+    color: white;
+    margin-top: 5px;
+  }
+  .container{
+    margin-bottom: 170px;
+  }
+  button{
+    margin: 10px;
+    margin-left: 5px;
+  }

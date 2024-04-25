@@ -1,0 +1,18 @@
+<div class="bigcontainer">
+<div class="container">
+    <div class = "story">
+    <h1 class="mb-1 heading">{{ blog?.title }}
+        <div class = "buttons">
+            <button [routerLink]="['/editblog',blog?.id]" class="btn btn-primary" *ngIf="loggedUser?.email === blog?.createdBy?.email">EDIT</button>
+            <button (click)="deleteFunction(blog?.id)" class="btn btn-danger" *ngIf="loggedUser?.email === blog?.createdBy?.email">DELETE</button>
+        </div>
+    </h1>
+    
+    
+    <br><br><br><br>
+    <div class="content">{{ blog?.content }}</div>
+    </div>
+    <br><br>
+    <button class="btn btn-secondary" [routerLink]="['/home']">All Stories</button>
+</div>
+</div>

@@ -1,0 +1,37 @@
+{
+  "blogs": [
+    {
+      "id": "f7626f5f-6563-4e85-992e-abc64ad16e6d",
+      "title": "This is my sample story",
+      "description": "This is description of my sample story",
+      "content": "This is the content of my sample story do you like this content",
+      "createdBy": {
+        "email": "tamanna@gmail.com",
+        "name": "tamanna",
+        "password": "tamanna"
+      }
+    },
+    {
+      "id": "d2af810b-76e3-4b44-80c0-0205488b9ecb",
+      "title": "ojasvi wrote this story",
+      "description": "this is her story",
+      "content": "this is ojasvi story",
+      "createdBy": {
+        "email": "ojasvi@gmail.com",
+        "name": "ojasvi",
+        "password": "ojasvi"
+      }
+    },
+    {
+      "id": "7fd6648a-3d92-42f0-926a-ed1eaacee355",
+      "title": "865re",
+      "description": "juytre",
+      "content": "yjutre3",
+      "createdBy": {
+        "email": "tamanna@gmail.com",
+        "name": "tamanna",
+        "password": "tamanna"
+      }
+    }
+  ]
+}

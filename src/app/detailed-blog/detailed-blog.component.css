@@ -1,0 +1,31 @@
+:host,.bigcontainer{
+    background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMThiYXRjaDcta2F0aWUtNDNhLWpvYjU5Ny5qcGc.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height:100vh;
+    /*color: white;*/
+    color: rgba(255, 255, 255, 0.86);
+    font-family: 'cursive', cursive;
+  }
+  .buttons{
+    float: right;
+   
+  }
+  button{
+    margin: 5px;
+  }
+  .container{
+    margin-top: 80px;
+  }
+  .heading{
+    font-size: 80px;
+    font-weight: bold;
+    color: white;
+  }
+  .content{
+    font-size: 30px;
+  }
+  .back{
+    margin-top: 60px;
+  }
+  

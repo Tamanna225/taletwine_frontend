@@ -1,0 +1,62 @@
+.navbar {
+            background-color: #333;
+            overflow: hidden;
+            padding: 10px;
+            display: flex;
+            height: 100px;
+        }
+
+        .navbar-logo {
+            float: left;
+            margin-right: 10px;
+        }
+
+        .navbar-logo img {
+            height: 60px; /* Adjust the height of the logo */
+        }
+
+        .navbar-brand {
+            color: white;
+            font-size: 20px; /* Adjust the font size of the website name */
+            /*margin: 0;*/         
+            margin-top: 15px;
+            /*padding-top: 5px; /* Adjust the spacing if needed */
+        }
+
+        .navbar-links {
+            float: left;
+            margin-left: 20px; /* Adjust the spacing between logo/name and links */
+            margin-top: 25px;
+            
+        }
+
+        .navbar-links a {
+            color: white;
+            text-decoration: none;
+            margin-right: 20px; /* Adjust the spacing between links */
+        }
+
+        .navbar-links a:hover {
+            color: #ddd;
+        }
+        .navbar-all_text{
+            display: flex;
+            /*justify-content: space-between;*/
+            width: 100%;
+        }
+        .navbar-login {
+            float: right;
+            margin-left: auto;
+            margin-top: 25px;
+            margin-bottom: 25px;
+            border: 1px solid azure; /* This line sets the border-width, border-style, and border-color */
+            border-radius: 3px;
+            padding: 5px 10px ;
+        }
+        .navbar-login a {
+            color: white;
+            text-decoration: none;           
+        }
+        .navbar-login:hover {
+            transform: scale(1.1); /* Adjust this value as needed */
+        }

@@ -1,0 +1,19 @@
+<div class="bigcontainer">
+<div class="container">
+    <h1 class="heading">Stories</h1>
+
+    <div *ngFor="let item of items">
+        <a [routerLink]="['/blogs', item.id]">
+            <div class="card mt-4 boxy">
+                <div class="card-body ">
+    <h3 class="card-title heady">{{ item.title }}</h3>
+    <div class="card-text mb-2 texty">{{ item.description }}</div>
+    </div>
+    </div>
+    </a>
+    </div>
+    <br>
+<button class="btn btn-secondary back_button" [routerLink]="['/about']">Home</button>
+
+</div>
+</div>

@@ -2,36 +2,21 @@
   "blogs": [
     {
       "id": "f7626f5f-6563-4e85-992e-abc64ad16e6d",
-      "title": "This is my sample story",
-      "description": "This is description of my sample story",
-      "content": "This is the content of my sample story do you like this content",
-      "createdBy": {
-        "email": "tamanna@gmail.com",
-        "name": "tamanna",
-        "password": "tamanna"
-      }
+      "title": "The Forgotten Garden",
+      "description": "In a secluded corner of the countryside lies a forgotten garden, overgrown with vines and tangled foliage. Once a place of enchantment and beauty, it now holds secrets waiting to be uncovered by those brave enough to venture within its walls",
+      "content": "In the heart of the countryside, where the whispers of the wind mingle with the songs of birds, there exists a forgotten garden. Once, it was the pride of the estate, a testament to the skill and dedication of its caretakers. But now, it lies abandoned, hidden behind walls draped with ivy and moss.\n\nFew dare to tread upon the cracked cobblestones that wind their way through the overgrown foliage. Yet, there are those who are drawn to the garden's mystery, its aura of forgotten magic. One such soul is Amelia, a young girl with an insatiable curiosity and a love for adventure.\n\nAmelia first heard of the garden from her grandmother, who spoke of its former glory with a wistful smile. Determined to uncover its secrets, Amelia sets out one sunny afternoon, armed with nothing but a sense of wonder and a battered old journal.\n\nAs she pushes aside the overgrown branches and steps into the garden's shadowed depths, Amelia feels a sense of both trepidation and excitement. The air is heavy with the scent of earth and wildflowers, and the sound of rustling leaves fills her ears.\n\nFor hours, Amelia explores the garden, discovering hidden pathways and crumbling statues hidden amidst the foliage. With each step, she feels as though she is peeling back the layers of time, uncovering the stories that have been woven into the very fabric of the garden itself.\n\nAs the sun begins to sink below the horizon, casting long shadows across the garden, Amelia stumbles upon a hidden alcove nestled beneath a tangle of roses. There, she finds a weathered stone bench and a small, ornate fountain, its waters still and clear.\n\nIn that moment, Amelia feels as though she has stumbled upon a forgotten treasure, a piece of history waiting to be rediscovered. And as she settles onto the bench, her fingers tracing the intricate carvings of the fountain, she knows that she will return to the garden again and again, to unlock its secrets and to breathe life back into its forgotten beauty."
     },
     {
       "id": "d2af810b-76e3-4b44-80c0-0205488b9ecb",
-      "title": "ojasvi wrote this story",
-      "description": "this is her story",
-      "content": "this is ojasvi story",
-      "createdBy": {
-        "email": "ojasvi@gmail.com",
-        "name": "ojasvi",
-        "password": "ojasvi"
-      }
+      "title": "The Joyful Grove",
+      "description": "Nestled deep in the heart of the forest, there lies a grove where laughter dances on the breeze and happiness blooms like wildflowers. It is a place of warmth and wonder, where weary souls find solace and the magic of friendship knows no bounds.",
+      "content": "Deep within the embrace of the ancient forest, where the sunlight filters through the canopy in dappled patterns of gold, there exists a hidden gem known as the Joyful Grove. Here, amidst the towering trees and fragrant blossoms, lies a sanctuary of joy and camaraderie.\n\nAt the heart of the grove stands a majestic oak tree, its branches reaching skyward in a silent salute to the heavens. Beneath its leafy canopy, a group of friends has gathered, their laughter echoing through the air like music.\n\nThere is Emily, with her infectious smile and boundless energy, always ready to brighten even the darkest of days. Beside her sits Thomas, the gentle giant whose heart is as big as his laughter, his presence a comforting anchor in times of trouble.\n\nThen there is Lily, with her quick wit and mischievous grin, a whirlwind of excitement and adventure. And finally, there is Jack, the quiet observer whose steady presence belies a depth of wisdom beyond his years.\n\nTogether, they form a tight-knit family, bound by the bonds of friendship and a shared love for the wonders of the natural world. Whether they are picnicking beneath the shade of the oak tree or embarking on a daring expedition into the heart of the forest, their adventures are always filled with laughter and joy.\n\nBut it is not just the company of friends that makes the Joyful Grove so special; it is the sense of belonging that permeates every corner of the grove. Here, amidst the rustling leaves and twittering birds, each member of the group finds acceptance and understanding, a place where they can truly be themselves.\n\nAs the sun sets on another perfect day in the grove, the friends gather around a crackling bonfire, their faces illuminated by its warm glow. And as they share stories and laughter long into the night, they know that no matter where life may lead them, the bonds forged in the Joyful Grove will never be broken."
     },
     {
       "id": "7fd6648a-3d92-42f0-926a-ed1eaacee355",
-      "title": "865re",
-      "description": "juytre",
-      "content": "yjutre3",
-      "createdBy": {
-        "email": "tamanna@gmail.com",
-        "name": "tamanna",
-        "password": "tamanna"
-      }
+      "title": "Shadows of the Night",
+      "description": " In the heart of the city, there lies a shadowy alley where the darkness seems to swallow all who dare to enter. Haunted by whispers of the past and shrouded in mystery, it beckons to those who seek to uncover its sinister secrets.",
+      "content": "Amidst the bustling streets and neon lights of the city, there exists a place that few dare to venture: the shadowy alley known only as Blackstone Lane. Here, the darkness reigns supreme, swallowing all who dare to tread its cobblestone path.\n\nRumors swirl like smoke through the streets, whispers of unspeakable horrors lurking within the alley's depths. Some say it is cursed, haunted by the spirits of those who met untimely ends within its confines. Others claim it is a gateway to another realm, a place where nightmares come to life.\n\nBut despite the warnings, there are those who are drawn to the alley's dark embrace, unable to resist the pull of its sinister allure. One such soul is Marcus, a troubled youth with a penchant for danger and a thirst for adventure.\n\nDriven by a restless curiosity, Marcus finds himself standing at the mouth of Blackstone Lane one fateful night, the cold fingers of fear creeping up his spine. With each step, he feels as though he is descending into madness, the oppressive darkness pressing in on all sides.\n\nAs he navigates the twisting maze of alleyways, Marcus becomes acutely aware of the whispers that seem to emanate from the very walls themselves. They speak of forgotten sins and hidden truths, weaving a tapestry of darkness that threatens to consume him whole.\n\nBut Marcus presses on, his heart pounding in his chest as he searches for answers amidst the shadows. And as he reaches the heart of the alley, he comes face to face with a truth more horrifying than he could have ever imagined.\n\nFor in the darkness, he finds not only the secrets of Blackstone Lane, but the darkness that lurks within his own soul. And as he stands on the precipice of oblivion, Marcus realizes that some mysteries are better left unsolved, lest they consume us whole.\n"
     }
   ]
 }

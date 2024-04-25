@@ -6,6 +6,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { ActivatedRoute } from '@angular/router';
 import { Router } from '@angular/router';
 import { error } from 'node:console';
+import { create } from 'node:domain';
 
 @Component({
   selector: 'app-edit-post',
@@ -37,6 +38,7 @@ export class EditPostComponent {
     title: new FormControl('', Validators.required),
     description: new FormControl('', Validators.required),
     content: new FormControl('', Validators.required),
+    createdBy: new FormControl(''), // Add this line
   });
 
   this.service.getDataById(this.id).subscribe(
@@ -48,6 +50,7 @@ export class EditPostComponent {
         title: this.blog['title'],
         description: this.blog['description'],
         content: this.blog['content'],
+        createdBy: this.blog['createdBy'],
       });
     },
     (error) => {
